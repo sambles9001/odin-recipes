@@ -1,1 +1,0 @@
-This is my first project for The Odin Project to learn how to code. This project will showcase what I have learned thus far into the course, such as using the command line, writing in html to make a basic website, and show basic understanding of git and git commits. 
