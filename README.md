@@ -1,0 +1,1 @@
+This is my first project from The Odin Project. I hope to show what I have learned thus far from the project, being html, basic website creation, and using git/github.
